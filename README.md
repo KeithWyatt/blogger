@@ -1,24 +1,5 @@
-# README
+# Blogger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning how to use Ruby on Rails to create a blogging site.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+From [Jumpstart Labs](http://tutorials.jumpstartlab.com/projects/blogger.html#i0:-up-and-running) which I found through[The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails?ref=lc-pb) Ruby section.
